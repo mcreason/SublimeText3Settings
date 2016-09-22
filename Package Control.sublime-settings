@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"DocBlockr",
+		"Emmet",
+		"Gem Browser",
+		"Git",
+		"GitGutter-Edge",
+		"Github Tools",
+		"Glue",
+		"Package Control",
+		"Pretty JSON",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"TrailingSpaces"
+	]
+}
